@@ -5,41 +5,41 @@ questionary web
 
 api
 
- config
+ -config
 
-db.js
+--db.js
 
-controllers
+-controllers
 
-controllers.js
+--controllers.js
 
-routers
+-routers
 
-router.js
+--router.js
 
-server.js
+--server.js
 
 views
 
- dashboard
+ -dashboard
 
-dashboard.css
+--dashboard.css
 
-dashboard.html
+--dashboard.html
 
-dashboard.js
+--dashboard.js
 
-game
+-game
 
-public
+-public
 
-services
+-services
 
-app.js
+-app.js
 
-app.css
+-app.css
 
-index.html
+-index.html
 
 index.js
 
