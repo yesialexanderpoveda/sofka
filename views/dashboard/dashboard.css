@@ -12,53 +12,37 @@ body{
   overflow: hidden;
 }
 
-#modals{
-position: absolute;
-
-}
-
-.mod::before{
-  content: 'X';
-  position: absolute;
-  right: 0px;
-  padding: 15px;
-  
-}
-
-#modals div{
-
-  width: 90vw;
-  height: 90vh;
+.user{
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
-  align-items: center;
-  background-color: #222222;
-  
-}
-#modals div div{
-
-  height: 32%;
-  width: 90%;
-  padding: 5px;
-  margin: 5px;
-  text-align: center;
-  
 }
 
-
-
-#modals div div h4{
-  margin: 10px;
+.ask{
+   
+  background: #222222;
+  position: absolute;
+  height: 80vh;
+  display: flex;
+  align-self: flex-end;
+  flex-direction: column;
+  overflow-y: scroll;
+  top: 100px;
+  z-index: 1;
+}
+.test{
+  top: 100px;
+   width: 70vw;
+   padding: 10px;
+   margin: 2px;
+   display: flex;
+ 
 }
 
-p{
-  font-size:x-small;
-  margin: 15px;
-  color: rgb(104, 32, 32);
-  
-}
 
+ul li{
+
+  list-style: none;
+}
 
 .container{
   width: 100vw;
