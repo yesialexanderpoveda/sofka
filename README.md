@@ -2,7 +2,7 @@
 
 Es un cuestionario para un desafío training
 
-# Descrición
+# Descripción
 
 La dinámica es resolver un set de cinco preguntas durante cinco rondas y guardar el avance de cada usuario o jugador 
 
