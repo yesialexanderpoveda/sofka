@@ -71,7 +71,11 @@ npm start, npm build
 tables: user, category, test.
 
 user => iduser, alias, idcategory
+
+
 category => idcategory, name_category
+
+
 test => idtest, question, res_one, res_two, rest_three, res_four, res_true idcategory
 
 
