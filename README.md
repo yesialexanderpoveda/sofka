@@ -1,6 +1,6 @@
 # sofka
 
-Es un questionario para un desafío training
+Es un cuestionario para un desafío training
 
 # Descrición
 
@@ -68,7 +68,19 @@ npm start, npm build
 
 # bd mysql
 
+tables: user, category, test.
 
+user => iduser, alias, idcategory
+category => idcategory, name_category
+test => idtest, question, res_one, res_two, rest_three, res_four, res_true idcategory
+
+
+# Interacción
+
+![Screenshot](documentation/home.png)
+![Screenshot](documentation/register_login.png)
+![Screenshot](documentation/categoria.png)
+![Screenshot](documentation/test.png)
 
 
 

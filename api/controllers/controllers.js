@@ -7,7 +7,6 @@ const sqlLogin = 'SELECT * FROM user WHERE alias = ? AND password = ?'
 
 //files sttatic
 const path = require('path');
-const { redirect } = require('express/lib/response');
 let file = path.resolve(__dirname + './../../views/dashboard/dashboard.html')
 
 
